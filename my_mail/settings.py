@@ -26,8 +26,8 @@ SECRET_KEY = '6acyzly)rqj9==c4mb)5yzi=fu49a0v$%ym@i+hncunsa4u^gx'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'calm-oasis-67273.herokuapp.com',
-    '127.0.0.1'
+    'mighty-forest-07844.herokuapp.com',
+    '127.0.0.1',
 ]
 
 
