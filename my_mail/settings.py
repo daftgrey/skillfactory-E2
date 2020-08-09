@@ -25,7 +25,9 @@ SECRET_KEY = '6acyzly)rqj9==c4mb)5yzi=fu49a0v$%ym@i+hncunsa4u^gx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['arcane-wildwood-07172.herokuapp.com']
+ALLOWED_HOSTS = [
+	'calm-oasis-67273.herokuapp.com',
+]
 
 
 # Application definition
