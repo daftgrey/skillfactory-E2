@@ -30,7 +30,7 @@ def worker(text):
         'Тестовое сообщение для задания E2',
         text,
         'TestSFE2@rambler.ru',          #Адрес почты отправителя
-        ['KalininSegera@mail.ru'],                #Адрес получателя
+        ['***@mail.ru'],                #Адрес получателя
         fail_silently=True)
 
 
