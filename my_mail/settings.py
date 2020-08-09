@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
 	'calm-oasis-67273.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
@@ -127,7 +128,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 EMAIL_HOST = 'smtp.rambler.ru'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'TestSFE2@rambler.ru'
-EMAIL_HOST_PASSWORD = 'TestSFE2'
+EMAIL_HOST_USER = '***'
+EMAIL_HOST_PASSWORD = '***'
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
